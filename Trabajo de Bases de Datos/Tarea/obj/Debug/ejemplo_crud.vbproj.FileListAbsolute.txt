@@ -1,0 +1,50 @@
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\bin\Debug\ejemplo_crud.exe.config
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\bin\Debug\ejemplo_crud.exe
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\bin\Debug\ejemplo_crud.pdb
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\bin\Debug\ejemplo_crud.xml
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.vbprojResolveAssemblyReference.cache
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.Form1.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.Resources.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.vbproj.GenerateResource.Cache
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.exe
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.xml
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.pdb
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.Form2.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.Form3.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.Form4.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.Form5.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.Form6.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud\ejemplo_crud\obj\Debug\ejemplo_crud.Form7.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\bin\Debug\ejemplo_crud_empleado.exe.config
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\bin\Debug\ejemplo_crud_empleado.exe
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\bin\Debug\ejemplo_crud_empleado.pdb
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\bin\Debug\ejemplo_crud_empleado.xml
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud.vbprojResolveAssemblyReference.cache
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Form1.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Form2.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Form3.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Form4.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Form5.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Form6.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Form7.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Resources.resources
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud.vbproj.GenerateResource.Cache
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.exe
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.xml
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.pdb
+C:\Users\Josue\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Venta.resources
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\bin\Debug\ejemplo_crud_empleado.exe.config
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.exe
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.xml
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.pdb
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud.vbprojResolveAssemblyReference.cache
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Form1.resources
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Form2.resources
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Form3.resources
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Form4.resources
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Form5.resources
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.Resources.resources
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud.vbproj.GenerateResource.Cache
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\bin\Debug\ejemplo_crud_empleado.exe
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\bin\Debug\ejemplo_crud_empleado.pdb
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\bin\Debug\ejemplo_crud_empleado.xml

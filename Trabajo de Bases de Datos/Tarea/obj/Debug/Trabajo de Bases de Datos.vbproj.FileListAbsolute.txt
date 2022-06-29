@@ -1,0 +1,8 @@
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\bin\Debug\ejemplo_crud_empleado.exe.config
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.exe
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.xml
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\ejemplo_crud_empleado - copia\ejemplo_crud\obj\Debug\ejemplo_crud_empleado.pdb
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\Trabajo de Bases de Datos\Tarea\bin\Debug\ejemplo_crud_empleado.exe.config
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\Trabajo de Bases de Datos\Tarea\obj\Debug\ejemplo_crud_empleado.exe
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\Trabajo de Bases de Datos\Tarea\obj\Debug\ejemplo_crud_empleado.xml
+C:\Users\Silvero\Documents\Visual Studio 2015\Projects\Trabajo de Bases de Datos\Tarea\obj\Debug\ejemplo_crud_empleado.pdb
